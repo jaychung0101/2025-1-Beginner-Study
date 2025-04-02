@@ -53,4 +53,5 @@ Repository에서 작업 계획, 토론 및 추적을 위해 활용. 프로젝트
     A---B---C---D'---E' (feature rebased)
     ```
 
+## 실습 URL
 https://github.com/jaychung0101/2025-1-Beginner-Study/pull/2
